@@ -2,6 +2,13 @@
 
 Simpel scriptje voor FiveM dat vertelt wat iemand allemaal op zak heeft.
 
+## Installatie
+
+1. Download de laatste release of kloon deze repository
+2. Pak de bestanden uit naar een map genaamd `watheddebij`
+3. Upload de map naar je map met resources op je server
+4. Voeg `ensure watheddegij` toe aan `server.cfg`
+
 ## Gebruik
 
 Voer het commando `/fouilleer` uit. Het maakt niet uit waar je bent of wat je doet. Implementeer dit commando in je roleplay scenario. Het script geeft random items uit de lijst terug. 
