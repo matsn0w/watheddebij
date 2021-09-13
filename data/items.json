@@ -1,0 +1,15 @@
+[
+    { "name": "Zakmes", "chance": 0.01 },
+    { "name": "Wietzakjes", "chance": 0.02 },
+    { "name": "Joint", "chance": 0.03 },
+    { "name": "Stanleymes", "chance": 0.03 },
+    { "name": "Paspoort", "chance": 0.04 },
+    { "name": "Oplaadkabel", "chance": 0.05 },
+    { "name": "Verkreukelde papiertjes", "chance": 0.05 },
+    { "name": "Sleutels", "chance": 0.06 },
+    { "name": "OV-Chipkaart", "chance": 0.06 },
+    { "name": "Kauwgom", "chance": 0.07 },
+    { "name": "OV-Chipkaart", "chance": 0.07 },
+    { "name": "Portomonnee", "chance": 0.08 },
+    { "name": "Smartphone", "chance": 0.96 }
+]
