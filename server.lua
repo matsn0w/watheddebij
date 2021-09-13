@@ -31,12 +31,6 @@ local function search()
     -- load the items
     local items = load_items()
 
-    -- get a random index
-   local index = math.floor(math.random() * #items) + 1
-
-    -- get the item
-    local item = items[index]
-
     -- start without any items found
     local found = {}
 
